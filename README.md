@@ -1,2 +1,3 @@
 # Assignment_11
- Bootstrap
+ * Created the navigation bar that is free floating using bootstrap
+ * Used Carousel component to add rotating images to home page of the website
